@@ -1,8 +1,8 @@
 # IOSToDoApp
 
-This is a IOS toDoApp
-It allows user to pick and select Stock category.
-User can also decide the number of plot to display.
+This is a ToDo App that organize your tasks with very easy to use interface. 
+ToDo can help you to make list of your tasks and also you can set Reminder with specific tasks. 
+It reminds you at you specified Time.
 
 ## TechSteck
 - IGListKit
